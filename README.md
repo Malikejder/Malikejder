@@ -18,20 +18,34 @@ Hello! I am **Malikejder**, a passionate Cyber Security Researcher and Software 
 
 - 🔭 **Current Focus:** Advanced Threat Hunting, SIEM Engineering, and Cyber Threat Intelligence (CTI).
 - 🎯 **Areas of Interest:** Network Forensics, Malware Analysis, and Secure Coding.
-- ⚡ **Philosophy:** *Automate everything.* I heavily leverage Python and Bash to parser massive logs and triage alerts rapidly.
+- ⚡ **Philosophy:** *Automate everything.* I heavily utilize Python and Bash to parse massive logs and triage alerts rapidly.
 
 ---
 
-## 🛡️ Certified Training & Rooms
-To validate my theoretical and practical skills, I continuously train in realistic blue team environments:
+## 📜 Certifications & Verified Trainings
 
-*   **TryHackMe SOC Level 1 Path:** Successfully completed 100% of the comprehensive SOC Level 1 learning path, covering Incident Response, Log Analysis, Phishing Analysis, and Endpoint Security Monitoring.
+Here is the structured list of my verified technical trainings and learning paths from prestigious institutions:
+
+### 🔴 TryHackMe
+*   **SOC Level 1 Path:** Successfully completed 100% of the comprehensive SOC Level 1 learning path, covering Incident Response, Log Analysis, Phishing Analysis, and Endpoint Security Monitoring.
 
 <p align="left">
   <a href="https://tryhackme.com/p/Malikejder" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-SOC_Level_1_Completed-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SOC L1" />
   </a>
 </p>
+
+### 🇹🇷 BTK Akademi (Information Technologies and Communication Authority)
+| Category | Certified Training |
+| :--- | :--- |
+| **Security Operations** | 🛡️ SIEM Temelleri (SIEM Fundamentals) |
+| **Threat Hunting & Intel** | 🎯 Siber Tehdit İstihbaratı ve Tehdit Avcılığı (Cyber Threat Intelligence & Threat Hunting) |
+| **Infrastructure Security**| 🌐 Telekomünikasyon Sistemleri Güvenliği (Telecommunication Systems Security) |
+| **OS Security** | 🪟 Windows İşletim Sistemleri Güvenliği (Windows OS Security) |
+| **OS Security** | 🐧 Siber Güvenlikte Linux İşletim Sistemleri (Linux OS in Cybersecurity) |
+| **Network Defense** | 🚫 DoS / DDoS Saldırıları ve Koruma (DoS / DDoS Attacks and Protection) |
+| **Exploit Research** | 🧠 Bellek Taşma Açıklıkları ve Exploit Geliştirme (Buffer Overflow Vulnerabilities & Exploit Development) |
+| **Legal & Compliance** | ⚖️ Bilişim Hukuku (Cyber Law / Information Technology Law) |
 
 ---
 
@@ -42,7 +56,7 @@ To validate my theoretical and practical skills, I continuously train in realist
 ![Wireshark](https://img.shields.io/badge/Network-Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=white)
 ![YARA](https://img.shields.io/badge/Analysis-YARA--Rules-red?style=for-the-badge&logo=virustotal&logoColor=white)
 
-### 💻 Geliştirme & Güvenlik Otomasyonu (Software Engineering)
+### 💻 Development & Security Automation (Software Engineering)
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Script-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
