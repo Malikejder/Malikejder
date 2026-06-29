@@ -85,17 +85,6 @@ Here is the structured list of my verified technical trainings and learning path
 ### 📊 [Log Analysis & Threat Hunting Projects](https://github.com/Malikejder)
 > Practical walkthroughs and correlation queries demonstrating how to hunt for advanced threats (such as brute-force, lateral movement, and data exfiltration) using **Splunk** and packet-level forensic tools like **Wireshark**.
 
----
-
-## 📈 GitHub Analytics & Badges
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Malikejder&show_icons=true&theme=tokyonight&count_private=true" alt="Malikejder's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malikejder&theme=tokyonight" alt="Malikejder's Streak" width="48%" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 I am always open to collaborating on open-source blue team projects, discussing novel threat hunting methodologies, or sharing insights on SOC operations. Let's connect!
