@@ -90,7 +90,7 @@ Here is the structured list of my verified technical trainings and learning path
 I am always open to collaborating on open-source blue team projects, discussing novel threat hunting methodologies, or sharing insights on SOC operations. Let's connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/malikejder-durgun-61571b39b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:YOUR_EMAIL_ADDRESS@gmail.com">
