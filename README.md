@@ -91,17 +91,13 @@ root@soc:~# ls skills/
 # 📊 GITHUB DASHBOARD
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Malikejder&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF90&border_color=00FF41&border_radius=8"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Malikejder&hide_border=true&background=000000&ring=00FF41&fire=00FFC8&currStreakLabel=00FF41&sideLabels=00FF90&currStreakNum=00FF41&sideNums=00FF90&dates=006644&border=00FF41"/>
+<img width="60%" src="https://streak-stats.demolab.com/?user=Malikejder&hide_border=true&background=000000&ring=00FF41&fire=00FFC8&currStreakLabel=00FF41&sideLabels=00FF90&currStreakNum=00FF41&sideNums=00FF90&dates=006644&border=00FF41"/>
 </p>
 
 <p align="center">
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Malikejder&hide_border=true&bg_color=000000&color=00FF41&line=00FFC8&point=00FF90&area=true&area_color=00FF41"/>
 </p>
 
-<p align="center">
-<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malikejder&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF90&border_color=00FF41&border_radius=8"/>
-</p>
 
 > ⚠️ Bu kartlar canlı GitHub API'sinden veri çekiyor. Üçüncü parti (vercel/demolab) ücretsiz sunucuları yoğun saatlerde 429/500 hatası verebilir — geçici bir bozulmaysa sayfayı birkaç dakika sonra yenilemen yeterli. Kalıcı çözüm için kendi Vercel hesabında `github-readme-stats`'ı fork'layıp deploy edebilirsin (istersen adım adım anlatırım).
 
