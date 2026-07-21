@@ -1,18 +1,14 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,40:001a0f,100:00FF41&text=MALIK%20EJDER%20DURGUN&fontColor=00FF41&fontSize=42&fontAlignY=40&animation=twinkling&desc=%3E%20system.breach.exe%20initiated_&descAlignY=58&descSize=18&descColor=00FFC8"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=900&height=45&lines=root%40soc%3A~%23+SOC+Analyst;root%40soc%3A~%23+Threat+Hunter;root%40soc%3A~%23+Blue+Team+Operator;root%40soc%3A~%23+Detection+Engineering;root%40soc%3A~%23+Incident+Response;root%40soc%3A~%23+Python+Security+Automation"/>
-
 <br>
 
 <a href="https://www.linkedin.com/in/malikejder-durgun-61571b39b"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000"/></a>
 <img src="https://komarev.com/ghpvc/?username=Malikejder&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS&labelColor=000000"/>
 
-<br><br>
-
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1500&color=00FF41&background=000000&center=true&vCenter=true&width=700&height=25&lines=%3E+decrypting+identity...+100%25+complete;%3E+access+level%3A+authorized"/>
-
 </div>
 
 ---
